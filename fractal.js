@@ -69,7 +69,7 @@ function draw() {
 		noStroke();
 		fill(255);
 		textSize(40);
-		text("Press to emmit particles", centerX, centerY);
+		text("点击更精彩", centerX, centerY);
 		return;
 	}
 	
